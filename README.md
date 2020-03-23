@@ -4,7 +4,7 @@
 
 | 支付宝 | 微信支付 | QQ钱包 | 
 | :------: | :------: |  :------: | 
-| <img width=300" height="300" src="https://github.com/Polaristing/sijie-donate/blob/master/uploads/alipay.png> | <img width="300" height="300" src="https://github.com/Polaristing/sijie-donate/blob/master/uploads/wxpay.png"> | <img width="300" height="300" src="https://github.com/Polaristing/sijie-donate/blob/master/uploads/qqpay.png"> | 
+| <img src="https://github.com/Polaristing/sijie-donate/blob/master/uploads/alipay.png"> | <img src="https://github.com/Polaristing/sijie-donate/blob/master/uploads/wxpay.png"> | <img src="https://github.com/Polaristing/sijie-donate/blob/master/uploads/qqpay.png"> | 
 
 ## 为什么要捐赠
 
